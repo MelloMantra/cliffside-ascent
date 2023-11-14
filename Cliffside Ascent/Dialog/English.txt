@@ -1,0 +1,4 @@
+mellomantra_cliffside_ascent_cutscene1= 
+	[THEO left normal] yo! you made it, thats pretty cool
+
+	[THEO left normal] but did you collect {~}all 3 strawberries{/~}?
